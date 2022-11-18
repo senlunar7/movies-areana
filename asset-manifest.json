@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movies-areana/static/css/main.334bdeb1.css",
+    "main.js": "/movies-areana/static/js/main.c8e65988.js",
+    "index.html": "/movies-areana/index.html",
+    "static/media/search.svg": "/movies-areana/static/media/search.e5803ce1a68bcc2a372d67ba27463b95.svg",
+    "main.334bdeb1.css.map": "/movies-areana/static/css/main.334bdeb1.css.map",
+    "main.c8e65988.js.map": "/movies-areana/static/js/main.c8e65988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.c8e65988.js"
+  ]
+}
